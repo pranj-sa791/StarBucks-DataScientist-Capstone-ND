@@ -1,4 +1,5 @@
 # Udacity DS Nanodegree Capstone Project
+## This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
 
 ## 1. Installations
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
